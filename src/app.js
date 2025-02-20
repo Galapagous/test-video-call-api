@@ -6,7 +6,7 @@ import authRoutes from "./route/auth.route.js";
 
 
 const app = express();
-connectDB();
+// connectDB();
 
 
 // Middlewares
